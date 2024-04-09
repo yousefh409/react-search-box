@@ -19,7 +19,7 @@ export const StyledDropdown = styled.div`
           dropdownHoverColor: string;
           dropdownBorderColor: string;
         }) => dropdownBorderColor};
-      height: 40px;
+      // height: 40px;
       display: flex;
       align-items: center;
       &:hover {
